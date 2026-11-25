@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="330" viewBox="0 0 880 330" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-label="Developer dashboard: 47 repositories, 36 started in 2026, 4,000+ commits, 9 years on GitHub. Languages: Python 58%, TypeScript 20.6%, HTML/CSS 7.4%, JavaScript 6.5%, PHP 6.3%, other 1.2%.">
+<rect x="0.5" y="0.5" width="879" height="329" rx="14" fill="#1a1a19" stroke="#33332f"/>
+<circle cx="38" cy="40" r="5" fill="#199e70"/>
+<text x="52" y="45" font-size="13" fill="#c3c2b7">Active · shipping production business apps</text>
+<text x="848" y="45" font-size="13" fill="#9a998f" text-anchor="end">Updated Nov 2026</text>
+<rect x="32.0" y="70" width="192.0" height="104" rx="10" fill="#242422" stroke="#33332f"/>
+<text x="52.0" y="126" font-size="34" font-weight="650" fill="#f0efec">47</text>
+<text x="52.0" y="152" font-size="14" fill="#c3c2b7">repositories</text>
+<rect x="240.0" y="70" width="192.0" height="104" rx="10" fill="#242422" stroke="#33332f"/>
+<text x="260.0" y="126" font-size="34" font-weight="650" fill="#f0efec">36</text>
+<text x="260.0" y="152" font-size="14" fill="#c3c2b7">started in 2026</text>
+<rect x="448.0" y="70" width="192.0" height="104" rx="10" fill="#242422" stroke="#33332f"/>
+<text x="468.0" y="126" font-size="34" font-weight="650" fill="#f0efec">4,000+</text>
+<text x="468.0" y="152" font-size="14" fill="#c3c2b7">commits</text>
+<rect x="656.0" y="70" width="192.0" height="104" rx="10" fill="#242422" stroke="#33332f"/>
+<text x="676.0" y="126" font-size="34" font-weight="650" fill="#f0efec">9</text>
+<text x="676.0" y="152" font-size="14" fill="#c3c2b7">years on GitHub</text>
+<text x="32" y="206" font-size="14" font-weight="600" fill="#f0efec">Languages across all repositories</text>
+<clipPath id="bar"><rect x="32" y="222" width="816" height="14" rx="4"/></clipPath><g clip-path="url(#bar)">
+<rect x="32.0" y="222" width="471.3" height="14" fill="#3987e5"/>
+<rect x="505.3" y="222" width="166.1" height="14" fill="#d95926"/>
+<rect x="673.4" y="222" width="58.4" height="14" fill="#199e70"/>
+<rect x="733.8" y="222" width="51.0" height="14" fill="#c98500"/>
+<rect x="786.8" y="222" width="49.4" height="14" fill="#d55181"/>
+<rect x="838.2" y="222" width="9.8" height="14" fill="#0ca30c"/>
+</g>
+<rect x="32.0" y="256" width="10" height="10" rx="2" fill="#3987e5"/>
+<text x="50.0" y="266" font-size="13" fill="#f0efec">Python <tspan fill="#c3c2b7">58.0%</tspan></text>
+<rect x="304.0" y="256" width="10" height="10" rx="2" fill="#d95926"/>
+<text x="322.0" y="266" font-size="13" fill="#f0efec">TypeScript <tspan fill="#c3c2b7">20.6%</tspan></text>
+<rect x="576.0" y="256" width="10" height="10" rx="2" fill="#199e70"/>
+<text x="594.0" y="266" font-size="13" fill="#f0efec">HTML/CSS <tspan fill="#c3c2b7">7.4%</tspan></text>
+<rect x="32.0" y="284" width="10" height="10" rx="2" fill="#c98500"/>
+<text x="50.0" y="294" font-size="13" fill="#f0efec">JavaScript <tspan fill="#c3c2b7">6.5%</tspan></text>
+<rect x="304.0" y="284" width="10" height="10" rx="2" fill="#d55181"/>
+<text x="322.0" y="294" font-size="13" fill="#f0efec">PHP <tspan fill="#c3c2b7">6.3%</tspan></text>
+<rect x="576.0" y="284" width="10" height="10" rx="2" fill="#0ca30c"/>
+<text x="594.0" y="294" font-size="13" fill="#f0efec">Other <tspan fill="#c3c2b7">1.2%</tspan></text>
+</svg>
